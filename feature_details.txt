@@ -1,2 +1,3 @@
 planning to add help option
-
+Also updating color theme
+Adding password reset functionality
